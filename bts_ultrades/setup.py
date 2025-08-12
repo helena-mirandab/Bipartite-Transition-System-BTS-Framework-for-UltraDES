@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[],
     description="Bipartite Transition System implementation for UltraDES",
-    author="Seu Nome",
-    author_email="seuemail@example.com",
-    url="https://github.com/SEU_USUARIO/bts-ultrades",
+    author="Helena Miranda",
+    author_email="helena.studiesem@gmail.com",
+    url="https://github.com/helena-mirandab/Bipartite-Transition-System-BTS-Framework-for-UltraDES.git",
 )

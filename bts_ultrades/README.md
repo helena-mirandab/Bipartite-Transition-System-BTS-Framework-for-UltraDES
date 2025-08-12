@@ -1,16 +1,10 @@
-# BTS UltraDES
+# Bipartite Transition System (BTS) Framework for UltraDES
 
-Implementação do **Bipartite Transition System (BTS)** compatível com a biblioteca [UltraDES](https://github.com/UltraDES/UltraDES).
+Implementação do **Bipartite Transition System (BTS)** usando UltraDES (via pythonnet/CLR).  
+Segue o formalismo de Yin & Lafortune para estruturas bipartidas Y/Z em sistemas a eventos discretos.
 
-## Instalação via GitHub
+## Instalação
+
+### Via pip direto do GitHub
 ```bash
-pip install git+https://github.com/SEU_USUARIO/bts-ultrades.git
-```
-
-## Uso no Google Colab
-```python
-!pip install git+https://github.com/SEU_USUARIO/bts-ultrades.git
-```
-
-## Exemplo
-Veja `example.py` para um caso básico de construção do BTS.
+pip install git+https://github.com/helena-mirandab/Bipartite-Transition-System-BTS-Framework-for-UltraDES.git
